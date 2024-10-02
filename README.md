@@ -35,6 +35,9 @@ https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&log
 https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 )
 ![Blog](
+https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+)
+![Blog](
     https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 )
 ![Blog](
