@@ -1,7 +1,7 @@
 ## Hi there, my name is Lucas Souza 👋  
 ### and I'm a Full Stack Developer
 
-Hello There!! My name is Lucas Souza and I'm a Developer with proficiency in Full Stack technologies such as **Angular, C#, and SQL**. I'm fluent in **English**, with intermediate proficiency in **Spanish** and basic knowledge of **French**, which I acquired during my time in **Vancouver**. 
+Hello There!! My name is Lucas Souza and I'm a Developer with proficiency in Full Stack technologies such as **Angular, C#, and SQL**. I'm fluent in **English**, with intermediate proficiency in **Español** and basic knowledge of **Fraçais**, which I acquired during my time in **Vancouver**. 
 
 On the front-end, I create dynamic interfaces, working with screen design, components, and other essential aspects of web development. On the back-end, I have experience creating and maintaining APIs, using **Swagger** to ensure documentation and integrity over time. Additionally, I work with databases, ensuring data efficiency and security.
 
