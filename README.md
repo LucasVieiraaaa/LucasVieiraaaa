@@ -60,6 +60,7 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
     https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
 <p>
+    
 ![Lucas Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraaaa&show_icons=true&theme=radical)
 
 <img 
