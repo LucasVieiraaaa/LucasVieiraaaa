@@ -61,3 +61,10 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 )
 
 ![Lucas Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVieiraaaa&show_icons=true&theme=radical)
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVieiraaaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
