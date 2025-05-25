@@ -5,7 +5,7 @@ Hello There!! My name is Lucas Souza and I'm a Developer with proficiency in Ful
 
 On the front-end, I create dynamic interfaces, working with screen design, components, and other essential aspects of web development. On the back-end, I have experience creating and maintaining APIs, using **Swagger** to ensure documentation and integrity over time. Additionally, I work with databases, ensuring data efficiency and security.
 
-I stay up to date with the latest technologies and market trends, allowing me to bring **innovation** and **efficiency** to the projects I work on. My main goal is to always deliver **agile and intelligent solutions**.
+I stay up to date with the latest technologies and market trends, allowing me to bring **innovation** and **efficiency** to the projects I work on. My main goal is to always deliver **agile and efficiency solutions**.
 
 ---
 
