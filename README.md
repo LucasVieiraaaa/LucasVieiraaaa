@@ -1,7 +1,7 @@
 ## Hi there, my name is Lucas Souza 👋  
 
 
-Full Stack Developer with experience in back-end, front-end, and database modeling. I have worked on the development and deployment of systems for Brazilian industry and commerce, including SaaS solutions and MVPs. I have worked with major Brazilian companies such as CSN (Arcos and Pedro Leopoldo), AngloGold (Nova Lima), Kinross (Paracatu), and ArcelorMittal. I am fluent in English and have solid experience with agile methodologies, focusing on quality, scalability, and delivering business value.
+- Full Stack Developer with experience in back-end, front-end, and database modeling. I have worked on the development and deployment of systems for Brazilian industry and commerce, including SaaS solutions and MVPs. I have worked with major Brazilian companies such as CSN (Arcos and Pedro Leopoldo), AngloGold (Nova Lima), Kinross (Paracatu), and ArcelorMittal. I am fluent in English and have solid experience with agile methodologies, focusing on quality, scalability, and delivering business value.
 ---
 
 - 💻 I’m currently working on: Frontend and Backend projects
